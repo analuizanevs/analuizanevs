@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil!
 
-Meu nome é Ana Luiza Nevs
+Meu nome é Ana Luiza Neves
 
 -Estou estudando na Alura
 -Estou me desenvolvendo na linguagem JavaScript
